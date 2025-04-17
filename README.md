@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Mukkaram  
 - 👀 I’m interested in Flutter development, backend APIs, and full-stack app development.  
 - 🌱 I’m currently working as a Flutter App Developer in a Company DevsRank,
-- 🌱 I have strong command over API integration, state management (Provider & GetX & Bloc ), and Firebase, Supabase.  
+- 🌱 I have strong command over API integration, state management (Provider & GetX & Bloc ), Firebase, Supabase and have sound knowledge of making beautiful and pixel perfect application.  
 - 💞️ I’m looking to collaborate on Flutter projects, especially mobile and desktop applications.  
 - 📫 How to reach me: 03183510213 | mmukkaram98@gmail.com | https://www.linkedin.com/in/muhammad-mukkaram-ikram-994a391b1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -   
