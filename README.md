@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Mukkaram  
+### 👋 Hi, I’m Muhammad Mukkaram  
 - 👀 I’m interested in Flutter development, backend APIs, and full-stack app development.  
 - 🌱 I’m currently working as a Flutter App Developer in a Company DevsRank,
 - 🌱 I have strong command over API integration, state management (Provider & GetX & Bloc ), Firebase, Supabase and have sound knowledge of making beautiful and pixel perfect application.  
